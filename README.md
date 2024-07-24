@@ -45,7 +45,8 @@ I am a passionate Data Scientist with a keen interest in Machine Learning and Ar
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
   </a>
 </p>
-🔭 Projects
+<h3>🔭 Projects</h3>
+
 📄 Document-SmartSummarizer-QuizGenerator-using-LLM
 Transform documents into concise summaries and engaging quizzes using Large Language Models (LLM).
 
