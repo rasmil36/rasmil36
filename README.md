@@ -1,6 +1,6 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,git," />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,fastapi" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,vscode,github,git,aws,docker" /><br>
+    <img src="https://skillicons.dev/icons?i=python,fastapi,anaconda,regex,scikitlearn,tensorflow" /><br>
 </div>
