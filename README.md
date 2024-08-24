@@ -9,7 +9,10 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  [![](https://github.com/rasmil36/rasmil36/blob/feature/github-contribution-grid-snake.svg)](https://in.linkedin.com/in/muhammed-rasmil-ch-182142229)
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/rasmil36/snk/output/github-contribution-grid-snake.svg"
+  />
   
   <br/><br/><br/>
 </div>
